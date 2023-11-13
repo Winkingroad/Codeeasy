@@ -1,0 +1,10 @@
+const ACTIONS = {
+    JOIN:'JOIN',
+    JOINED: 'JOINED',
+    DISCONNECTED: 'DISCONNECTED',
+    CODE_CHANGED: 'Code_CHANGED',
+    SYNC_CODE: 'SYNC_CODE',
+    LEAVE: 'LEAVE',
+};
+
+module.exports = ACTIONS;
